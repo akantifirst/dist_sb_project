@@ -15,6 +15,11 @@ The software helps to:
 * calculate installation devices
 * make a switchboard calculation report
 
+## Roadmap
+1. Create empty VT-Template, simplified as much as possible, with print layouts
+2. On the base of project analysis, check how much UV there are and what are their names
+3. Duplicate sheet template for all UV, fill in the names, change date
+4. Save he template in project directory
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
